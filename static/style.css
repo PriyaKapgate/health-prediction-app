@@ -1,0 +1,29 @@
+body {
+  background-color: #f0f4f8;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+  background-color: #1a3c5e;
+  padding: 12px 0;
+}
+
+.card {
+  border-radius: 12px;
+  border: none;
+}
+
+.card-header {
+  border-radius: 12px 12px 0 0 !important;
+  font-size: 1.1rem;
+}
+
+table {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.btn {
+  border-radius: 6px;
+}
